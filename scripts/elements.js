@@ -1,4 +1,4 @@
-// branches test 2
+// branches testing
 
 const darkModeBtn = document.querySelector('.DarkThemeToggle')
 const main = document.querySelector('.App');
